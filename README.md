@@ -1,2 +1,2 @@
 # bcc
-all my bcc (beaver computing challenge) solutions go here
+all my bcc (Beaver Computing Challenge) solutions go here
